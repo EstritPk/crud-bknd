@@ -21,7 +21,7 @@
                     <input type="text" name="title" class="form-control" placeholder="Task Title de pana siono qliao" autofocus>
                 </div>
                 <div class="form-group">
-                    <textarea name="description" rows="2" class="form-control" placeholder="Task Description aja eje "></textarea>
+                    <textarea name="description" rows="2" class="form-control" placeholder="Task Description aja eje dejeve tu dejeve aaee"></textarea>
                 </div>
                 <input type="submit" class="btn btn-success btn-block" name="save_task" value="Save Task, Mothafoka">
             </form>
